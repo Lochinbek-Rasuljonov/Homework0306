@@ -1,2 +1,7 @@
 # Homework0306
-Homework0306
+
+
+
+USERNAME: Homework0306
+
+PASSWORD: homework0306
